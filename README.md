@@ -10,6 +10,8 @@ File description:
 This is a python program written to solve the 8-puzzle with 3 searching algorithms. It used the tkinter to make the GUI. User can input a puzzle or generate 
 a random puzzle and the program will automatically process it to the user's goal state. 
 
+![](2023-09-09003910.png)
+
 Method of complication:
 Python 3.8
 
